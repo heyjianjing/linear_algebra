@@ -1,6 +1,6 @@
 # introductory_linear_algebra
 
-Some study notes on linear algebra
+Some study notes on linear algebra, mostly from
 
 * Linear dynamical systems (Prof. Stephen Boyd) https://www.youtube.com/playlist?list=PL06960BA52D0DB32B
 * Various lectures from Prof. Gilbert Strang
