@@ -1,8 +1,7 @@
 # introductory_linear_algebra
 
-Study notes primarily based on
+Notes on linear algebra
 
-* Essence of linear algebra (3Blue1Brown) https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
-* Introduction to applied linear algebra (Prof. Stephen Boyd) https://www.youtube.com/playlist?list=PLoROMvodv4rMz-WbFQtNUsUElIh2cPmN9
-* Linear dynamical systems (Prof. Stephen Boyd) https://www.youtube.com/playlist?list=PL06960BA52D0DB32B
-
+Mainly from Prof. Stephen Boyd's lectures
+* Introduction to applied linear algebra https://www.youtube.com/playlist?list=PLoROMvodv4rMz-WbFQtNUsUElIh2cPmN9
+* Linear dynamical systems https://www.youtube.com/playlist?list=PL06960BA52D0DB32B
