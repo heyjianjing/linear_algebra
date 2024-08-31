@@ -3,7 +3,6 @@
 Notes on linear algebra (`la`) (largely based on lectures from Prof. Stephen Boyd of Stanford)
 
 `la_01`
-* Matrix as linear transformation
 * Intepretations of $Ax$, as transformation or translation
 * Change of basis based on two interpretations
 
