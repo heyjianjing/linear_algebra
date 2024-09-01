@@ -1,7 +1,6 @@
 # Linear algebra and optimization
 
-`la`: linear algebra \
-`opt`: optimization
+`la`: linear algebra
 
 ### Notes on `linear algebra`
 
