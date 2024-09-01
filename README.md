@@ -1,7 +1,7 @@
 # linear algebra and applications (optimization, machine learning, dynamical system...)
 
-## Notes on linear algebra (`la`) 
-### (largely based on lectures from Prof. Stephen Boyd at Stanford)
+### Notes on linear algebra (`la`) 
+#### (largely based on lectures from Prof. Stephen Boyd at Stanford)
 
 `la_01`
 * Intepretations of $Ax$, as transformation or translation
