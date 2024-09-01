@@ -65,3 +65,4 @@ Source
 * Equivalence between transpose and inverse
 * Preservation of norm, inner product and angle
 * Orthogonal matrix
+* Projection onto subspace
