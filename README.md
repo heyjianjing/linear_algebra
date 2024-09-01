@@ -1,4 +1,4 @@
-# Linear algebra and applications (optimization, machine learning, dynamical system...)
+# Linear algebra and applications
 
 `la`: linear algebra
 
