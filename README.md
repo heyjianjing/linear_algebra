@@ -1,6 +1,7 @@
-# Linear algebra and applications
+# Linear algebra and optimization
 
-`la`: linear algebra
+`la`: linear algebra \
+`opt`: optimization
 
 ### Notes on `linear algebra`
 
