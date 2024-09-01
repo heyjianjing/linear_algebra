@@ -67,3 +67,7 @@ Source
 * Preservation of norm, inner product and angle
 * Orthogonal matrix
 * Projection onto subspace
+
+`la_13`
+* Find orthonormal basis for independent set of vectors
+* Gram-Schmidt procedure of sequential orthogonalization 
