@@ -58,6 +58,7 @@ Source
 
 `la_11`
 * Euclidean norm of a vector
+* $l_p$ norm of a vector
 * Cauchy-Schwarz inequality
 
 `la_12`
