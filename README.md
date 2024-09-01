@@ -1,4 +1,4 @@
-# linear_algebra
+# linear algebra and applications (optimization, machine learning, dyamical system...)
 
 Notes on linear algebra (`la`) (largely based on lectures from Prof. Stephen Boyd of Stanford)
 
