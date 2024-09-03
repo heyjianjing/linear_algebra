@@ -70,4 +70,8 @@ Source
 
 `la_13`
 * Find orthonormal basis for independent set of vectors
-* Basic Gram-Schmidt procedure based on sequential orthogonalization 
+* Basic Gram-Schmidt procedure based on sequential orthogonalization
+
+`la_14`
+* Find orthonormal basis for set of vectors (dependent or independent)
+* General Gram-Schmidt procedure
