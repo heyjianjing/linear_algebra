@@ -73,5 +73,6 @@ Source
 * Basic Gram-Schmidt procedure based on sequential orthogonalization
 
 `la_14`
-* Find orthonormal basis for set of vectors (dependent or independent)
+* Find orthonormal basis for set of vectors (independent or not)
 * General Gram-Schmidt procedure
+* Sequentially determine whether each vector can be linearly expressed as a combination of vectors that precede it in the sequence
