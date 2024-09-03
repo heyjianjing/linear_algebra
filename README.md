@@ -75,4 +75,4 @@ Source
 `la_14`
 * Find orthonormal basis for set of vectors (independent or not)
 * General Gram-Schmidt procedure
-* Sequentially determine whether each vector can be linearly expressed as a combination of vectors that precede it in the sequence
+* Sequentially determine whether each vector in the set can be expressed as a linear combination of vectors that precede it 
