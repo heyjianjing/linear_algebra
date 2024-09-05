@@ -75,4 +75,9 @@ Source
 `la_14`
 * Find orthonormal basis for set of vectors (independent or not)
 * General Gram-Schmidt procedure
-* Sequentially determine whether each vector in the set can be expressed as a linear combination of vectors that precede it 
+* Sequentially determine whether each vector in the set can be expressed as a linear combination of vectors that precede it
+
+`la_15`
+* QR and full QR decomposition
+* Relationship among four subspaces of a matrix through QR
+* Bessel's inequality
