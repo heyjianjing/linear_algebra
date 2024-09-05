@@ -83,4 +83,4 @@ Source
 * Bessel's inequality
 
 `la_16`
-* Useful derivatives in matrix calculus
+* Useful derivatives from matrix calculus
