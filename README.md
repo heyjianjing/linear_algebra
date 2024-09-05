@@ -81,3 +81,6 @@ Source
 * QR and full QR decomposition
 * Relationship among four subspaces of a matrix through QR
 * Bessel's inequality
+
+`la_16`
+* Useful derivatives in matrix calculus
