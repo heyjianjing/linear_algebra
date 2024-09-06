@@ -1,4 +1,4 @@
-# Linear algebra and optimization
+# Linear algebra and numerical linear algebra
 
 `la`: linear algebra
 
