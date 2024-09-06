@@ -84,3 +84,9 @@ Source
 
 `la_16`
 * Useful derivatives from matrix calculus
+
+`la_17`
+* Least squares and left inverse
+* Geometric interpretation and projection matrix
+* Least squares through QR decomposition
+* Properties of projection matrix
