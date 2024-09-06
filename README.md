@@ -94,3 +94,10 @@ Source
 `la_18`
 * Multi-objective least squares and regularization
 * Tikhonov regularization
+
+`la_19`
+* Least squares problem with equality constraints
+* Least norm problem
+* Right inverse as solution to least norm problem
+* Geometric interpretation of least norm solution
+* Derivation of least norm solution through Lagrange multiplier
