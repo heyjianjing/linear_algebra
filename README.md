@@ -90,3 +90,7 @@ Source
 * Geometric interpretation and projection matrix
 * Least squares through QR decomposition
 * Properties of projection matrix
+
+`la_18`
+* Multi-objective least squares and regularization
+* Tikhonov regularization
