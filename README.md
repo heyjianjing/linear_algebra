@@ -99,4 +99,5 @@ Source
 * Least squares problem with equality constraints
 * Least norm problem
 * Right inverse as solution to least norm problem
-* Derivation of least norm solution through Lagrange multiplier
+* Derivation of least norm solution through method of Lagrange multipliers
+* Intuition behind method of Lagrange multipliers
