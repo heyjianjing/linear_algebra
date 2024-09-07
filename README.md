@@ -101,3 +101,8 @@ Source
 * Right inverse as solution to least norm problem
 * Derivation of least norm solution through method of Lagrange multipliers
 * Intuition behind method of Lagrange multipliers
+
+`la_20`
+* Least squares with equality constraint
+* Optimality conditions using method of Lagrange multipliers
+* KKT equations and invertibility of KKT matrix
