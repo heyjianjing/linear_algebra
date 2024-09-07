@@ -110,3 +110,7 @@ Source
 `la_21`
 * Verification of solution obtained from KKT equations
 * The solution is also unique
+
+`la_22`
+* Definition of matrix exponential
+* In general $e^{A+B}\neq e^A e^B$
