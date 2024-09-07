@@ -106,3 +106,7 @@ Source
 * Least squares with equality constraint
 * Optimality conditions using method of Lagrange multipliers
 * KKT equations and invertibility of KKT matrix
+
+`la_21`
+* Verification of solution obtained from KKT equations
+* The solution is also unique
