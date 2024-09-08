@@ -118,4 +118,3 @@ Source
 `la_23`
 * Eigenvalue, left and right eigenvector
 * Basic properties of eigenvalue
-* Eigenvalue and eigenvector in Markov chain
