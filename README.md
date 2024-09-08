@@ -114,3 +114,8 @@ Source
 `la_22`
 * Definition of matrix exponential
 * In general $e^{A+B}\neq e^A e^B$
+
+`la_23`
+* Eigenvalue, left and right eigenvector
+* Basic properties of eigenvalue
+* Eigenvalue and eigenvector in Markov chain
