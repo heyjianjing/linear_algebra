@@ -118,3 +118,12 @@ Source
 `la_23`
 * Eigenvalues, left and right eigenvectors
 * Basic properties of eigenvalues
+
+`la_24`
+* Matrix diagonalization as an application of eigenvectors and eigenvalues
+* Matrix is diagonalizable if and only if it has independent set of eigenvectors
+* Not all square matrices are diagonalizable
+* If matrix has distinct eigenvalues, then it is diagonalizable
+* The other way is not true
+* Diagonalization and left eigenvectors
+* Left and right eigenvectors as dual basis
