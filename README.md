@@ -116,7 +116,8 @@ Source
 * In general $e^{A+B}\neq e^A e^B$
 
 `la_23`
-* Eigenvalues, left and right eigenvectors
+* Left and right eigenvectors
+* Real matrix has conjugate symmetric for eigenvalues and eigenvectors
 * Basic properties of eigenvalues
 
 `la_24`
