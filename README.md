@@ -117,7 +117,7 @@ Source
 
 `la_23`
 * Left and right eigenvectors
-* Real matrix has conjugate symmetric for eigenvalues and eigenvectors
+* Real matrix has conjugate symmetry for eigenvalues and eigenvectors
 * Basic properties of eigenvalues
 
 `la_24`
