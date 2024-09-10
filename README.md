@@ -131,3 +131,10 @@ Source
 * Diagonalization simplifies many matrix expressions, resolvent, powers, exponential,...
 * Diagonalization and left eigenvectors
 * Left and right eigenvectors as dual basis
+
+`la_25`
+* Jordan canonical form generalizes diagonalization of square matrix
+* Determinant of a matrix is product of all its eigenvalues
+* Generalized eigenvectors
+* Cayley-Hamilton theorem
+* Corollary and proof
