@@ -137,4 +137,4 @@ Source
 * Determinant of a matrix is product of all its eigenvalues
 * Generalized eigenvectors
 * Cayley-Hamilton theorem
-* Corollary and proof
+* Corollary and intuition
