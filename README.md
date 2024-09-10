@@ -144,3 +144,7 @@ Source
 * Symmetirc matrix has orthogonal eigenvectors
 * Equivalency between transpose and inverse of eigenvector matrix when A is symmetric
 * Interpretation of $Ax$
+
+`la_27`
+* Similarity transformation
+* Things preserved under similarity transformation (characteristic polynomial, eigenvalues, determinant, matrix rank...)
