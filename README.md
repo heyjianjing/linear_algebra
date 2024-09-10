@@ -120,6 +120,7 @@ Source
 * Real matrix has conjugate symmetry for eigenvalues and eigenvectors
 * Characteristic polynomial
 * Basic properties of eigenvalues
+* Eigenvalues remain the same after similarity transformation
 
 `la_24`
 * Matrix diagonalization as an application of eigenvectors and eigenvalues
