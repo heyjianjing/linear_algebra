@@ -4,7 +4,7 @@
 
 ### Notes on `linear algebra`
 
-Source 
+Main source 
 * Lectures from Prof. Stephen Boyd at Stanford
 
 `la_01`
