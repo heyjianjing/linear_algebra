@@ -157,6 +157,5 @@ Main source
 
 `la_29`
 * Gain of a matrix
-* Matrix norm as largest gain
-* Smallest gain
+* Matrix norm as the largest gain
 * Nullspace and zero gain
