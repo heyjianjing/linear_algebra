@@ -118,6 +118,7 @@ Source
 `la_23`
 * Left and right eigenvectors
 * Real matrix has conjugate symmetry for eigenvalues and eigenvectors
+* Characteristic polynomial
 * Basic properties of eigenvalues
 
 `la_24`
