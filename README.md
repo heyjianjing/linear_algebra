@@ -138,3 +138,9 @@ Source
 * Generalized eigenvectors
 * Cayley-Hamilton theorem
 * Corollary and intuition
+
+`la_26`
+* Symmetric matrix has real eigenvalues
+* Symmetirc matrix has orthogonal eigenvectors
+* Equivalency between transpose and inverse of eigenvector matrix when A is symmetric
+* Interpretation of $Ax$
