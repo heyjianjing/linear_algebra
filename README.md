@@ -154,3 +154,9 @@ Main source
 * Uniqueness of quadratic form
 * Upper and lower bound of quadratic form
 * Positive semidefinite and positive definite matrices
+
+`la_29`
+* Gain of a matrix
+* Matrix norm as largest gain
+* Smallest gain
+* Nullspace and zero gain
