@@ -126,5 +126,6 @@ Source
 * Not all square matrices are diagonalizable
 * If matrix has distinct eigenvalues, then it is diagonalizable
 * The other way is not true
+* Diagonalization simplies many matrix expressions, resolvent, powers, exponential,...
 * Diagonalization and left eigenvectors
 * Left and right eigenvectors as dual basis
