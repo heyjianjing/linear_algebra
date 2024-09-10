@@ -148,3 +148,9 @@ Main source
 `la_27`
 * Similarity transformation
 * Things preserved under similarity transformation (characteristic polynomial, eigenvalues, determinant, matrix rank...)
+
+`la_28`
+* Quadratic form
+* Uniqueness of quadratic form
+* Upper and lower bound of quadratic form
+* Positive semidefinite and positive definite matrices
