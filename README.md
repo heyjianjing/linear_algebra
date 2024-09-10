@@ -159,3 +159,10 @@ Main source
 * Gain of a matrix
 * Matrix norm as the largest gain
 * Nullspace and zero gain
+
+`la_30`
+* Singular value decomposition as a more complete picture of gain of matrix
+* Singular vectors
+* Input direction and sensitivity
+* Output direction
+* Comparison to eigendecomposition
