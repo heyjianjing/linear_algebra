@@ -204,3 +204,6 @@ Main source
 * Principal components
 * Principal component analysis (PCA)
 * Example: PCA with NumPy
+
+`la_ex_05`
+* Example: k-means clustering with NumPy
