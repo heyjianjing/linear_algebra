@@ -173,3 +173,9 @@ Main source
 `la_33`
 * Error estimation in linear model via SVD
 * Two types of ellipsoids
+
+`la_34`
+* Sensitivity of linear equations to data error
+* Condition number
+* Condition number of one
+* Tightness of condition number bound
