@@ -184,3 +184,8 @@ Main source
 * SVD as optimal low-rank approximation
 * Singular value as distance to singularity
 * Model simplification with SVD
+
+`la_ex_01`
+* Nonlinear least squares (NLLS)
+* Gauss-Newton update
+* Example: position estimation from ranges
