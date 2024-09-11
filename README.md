@@ -179,3 +179,8 @@ Main source
 * Condition number
 * Condition number of one
 * Tightness of condition number bound
+
+`la_35`
+* SVD as optimal low-rank approximation
+* Singular value as distance to singularity
+* Model simplification with SVD
