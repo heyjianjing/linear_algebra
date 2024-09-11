@@ -194,3 +194,6 @@ Main source
 * Issue with Gauss-Newton algorithm
 * Levenberg-Marquardt algorithm for NLLS
 * Example: position estimation from ranges
+
+`la_ex_03`
+* Example: k-nearest neighbours classifier with NumPy
