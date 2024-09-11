@@ -167,6 +167,9 @@ Main reference
 * Output direction
 * Comparison to eigendecomposition
 
+`la_31`
+* Left and right inverse computed via SVD
+
 `la_32`
 * Full SVD
 
