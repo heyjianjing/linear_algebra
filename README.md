@@ -197,3 +197,10 @@ Main source
 
 `la_ex_03`
 * Example: k-nearest neighbours classifier with NumPy
+
+`la_ex_04`
+* Recap SVD
+* Covariance in data
+* Principal components
+* Principal component analysis (PCA)
+* Example: PCA with NumPy
