@@ -189,3 +189,8 @@ Main source
 * Nonlinear least squares (NLLS)
 * Gauss-Newton update
 * Example: position estimation from ranges
+
+`la_ex_02`
+* Issue with Gauss-Newton method
+* Levenberg-Marquardt for NLLS
+* Example: position estimation from ranges
