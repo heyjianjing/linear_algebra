@@ -169,3 +169,7 @@ Main source
 
 `la_32`
 * Full SVD
+
+`la_33`
+* Error estimation in linear model via SVD
+* Two types of ellipsoids
