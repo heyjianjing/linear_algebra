@@ -161,8 +161,11 @@ Main source
 * Nullspace and zero gain
 
 `la_30`
-* Singular value decomposition as a more complete picture of gain of matrix
+* Singular value decomposition (SVD) as a more complete picture of gain of matrix
 * Singular vectors
 * Input direction and sensitivity
 * Output direction
 * Comparison to eigendecomposition
+
+`la_32`
+* Full SVD
