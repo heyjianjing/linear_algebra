@@ -2,7 +2,7 @@
 
 `la`: linear algebra
 
-### Notes on `linear algebra`
+### My notes on `linear algebra`
 
 Main reference
 * Lectures from Prof. Stephen Boyd at Stanford
