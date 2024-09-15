@@ -1,4 +1,4 @@
-# (Numerical) linear algebra
+# Linear algebra
 
 Main reference
 * Lectures from Prof. Stephen Boyd at Stanford
