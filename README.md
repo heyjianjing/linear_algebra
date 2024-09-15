@@ -1,8 +1,4 @@
-# Linear algebra and numerical linear algebra
-
-`la`: linear algebra
-
-### Linear algebra
+# (Numerical) linear algebra
 
 Main reference
 * Lectures from Prof. Stephen Boyd at Stanford
