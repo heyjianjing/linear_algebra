@@ -57,6 +57,7 @@ Main reference
 * Euclidean norm of a vector
 * $l_p$ norm of a vector
 * Cauchy-Schwarz inequality
+* Inequality between $l_1$ and $l_2$ norm
 
 `la_12`
 * Orthonormal basis
