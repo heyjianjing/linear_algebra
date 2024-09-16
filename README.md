@@ -14,6 +14,7 @@ Main reference
 `la_03`
 * Dot product
 * Equivalence with projection
+* Dot product under transpose
 
 `la_04`
 * Geometric intuition of determinant
