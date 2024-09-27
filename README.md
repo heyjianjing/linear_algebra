@@ -208,3 +208,9 @@ Main reference
 
 `la_ex_05`
 * Example: k-means clustering with NumPy
+
+`la_ex_06`
+* Example: tomography with least squares
+* Coordinates of image pixels
+* Length of intersection between ray and pixel
+* L2 regularized least squares solution for tomography
