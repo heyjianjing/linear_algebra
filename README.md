@@ -213,5 +213,5 @@ Main reference
 * Example: tomography with least squares
 * Coordinates of image pixels
 * Length of intersection between ray and pixel
-* Least squares solution for tomography
-* Tomography via Radon transform as reference
+* Regularized least squares as number of measurements is smaller than number of pixels
+* $l_2$ regularization vs Laplacian regularization
