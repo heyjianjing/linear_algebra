@@ -210,8 +210,13 @@ Main reference
 * Example: k-means clustering with NumPy
 
 `la_ex_06`
-* Example: tomography with least squares
+* Example: tomography with regularized least squares
 * Coordinates of image pixels
 * Length of intersection between ray and pixel
-* Regularized least squares as number of measurements is smaller than number of pixels
+* Regularized least squares for underdetermined system
 * $l_2$ regularization vs Laplacian regularization
+
+`la_ex_07`
+* Example: linear quadratic state estimation with constrained least squares
+* Product of two Gaussians
+* Kalman filter and sequential state estimation
