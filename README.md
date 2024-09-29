@@ -200,7 +200,7 @@ Main reference
 * Example: k-nearest neighbours classifier
 
 `la_ex_04`
-* Example: Principal component analysis (PCA)
+* Example: principal component analysis (PCA)
 * Recap SVD
 * Covariance in data
 * Principal components
