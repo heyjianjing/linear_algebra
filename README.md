@@ -187,27 +187,26 @@ Main reference
 * Model simplification with SVD
 
 `la_ex_01`
+* Example: position estimation from ranges
 * Nonlinear least squares (NLLS)
 * Gauss-Newton algorithm
-* Example: position estimation from ranges
 
 `la_ex_02`
+* Example: position estimation from ranges
 * Issue with Gauss-Newton algorithm
 * Levenberg-Marquardt algorithm for NLLS
-* Example: position estimation from ranges
 
 `la_ex_03`
-* Example: k-nearest neighbours classifier with NumPy
+* Example: k-nearest neighbours classifier
 
 `la_ex_04`
+* Example: Principal component analysis (PCA)
 * Recap SVD
 * Covariance in data
 * Principal components
-* Principal component analysis (PCA)
-* Example: PCA with NumPy
 
 `la_ex_05`
-* Example: k-means clustering with NumPy
+* Example: k-means clustering
 
 `la_ex_06`
 * Example: tomography with regularized least squares
