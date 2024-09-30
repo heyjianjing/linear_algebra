@@ -1,7 +1,7 @@
 # Linear algebra
 
 Main reference
-* Lectures from Prof. Stephen Boyd at Stanford (EE103 and EE263)
+* Lectures from Prof. Stephen Boyd at Stanford
 
 `la_01`
 * Intepretations of $Ax$, as transformation or translation
