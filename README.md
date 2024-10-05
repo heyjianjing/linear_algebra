@@ -152,7 +152,7 @@ Main reference
 * Uniqueness of quadratic form
 * Upper and lower bound of quadratic form
 * Positive semidefinite and positive definite matrices
-* Inequality related to largest/smallest eigenvalue
+* Simple inequality related to largest/smallest eigenvalue
 
 `la_29`
 * Gain of a matrix
