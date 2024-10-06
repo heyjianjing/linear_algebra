@@ -145,7 +145,7 @@ Main reference
 
 `la_27`
 * Similarity transformation
-* Things preserved under similarity transformation (characteristic polynomial, eigenvalues, determinant, matrix rank...)
+* Things that are preserved under similarity transformation (characteristic polynomial, eigenvalues, determinant, matrix rank...)
 
 `la_28`
 * Quadratic form
