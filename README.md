@@ -230,7 +230,7 @@ Main reference
 `la_ex_08`
 * Example: polynomial data fitting with constrained least squares
 
-### A bit numerical linear algebra
+### A bit of numerical linear algebra
 
 `nla_01`
 * Classic Gram-Schmidt (CGS) in rank-one projection form
