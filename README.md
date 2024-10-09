@@ -64,7 +64,8 @@ Main reference
 * Equivalence between transpose and inverse
 * Preservation of norm, inner product and angle
 * Orthogonal matrix
-* Projection onto subspace
+* Projection of a vector onto subspace
+* Two interpretations of projection
 
 `la_13`
 * Find orthonormal basis for independent set of vectors
