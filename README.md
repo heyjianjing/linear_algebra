@@ -1,4 +1,9 @@
-# Linear algebra
+# (Numerical) linear algebra
+
+`la` linear algebra
+`nla` numerical linear algebra
+
+### Linear algebra
 
 Main reference
 * Lectures from Prof. Stephen Boyd (Stanford)
@@ -224,3 +229,10 @@ Main reference
 
 `la_ex_08`
 * Example: polynomial data fitting with constrained least squares
+
+### A bit numerical linear algebra
+
+`nla_01`
+* Classic Gram-Schmidt (CGS) in rank-one projection form
+* Modified Gram-Schmidt (MGS) for numerical stability
+* Example (where CGS failed to find orthonormal basis)
