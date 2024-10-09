@@ -1,6 +1,6 @@
 # (Numerical) linear algebra
 
-`la` linear algebra
+`la` linear algebra \
 `nla` numerical linear algebra
 
 ### Linear algebra
