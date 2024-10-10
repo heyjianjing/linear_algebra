@@ -236,3 +236,7 @@ Main reference
 * Classic Gram-Schmidt (CGS) in rank-one projection form
 * Modified Gram-Schmidt (MGS) for numerical stability
 * Example (where CGS failed to find orthonormal basis)
+
+`nla_02`
+* Triangularization of a matrix for QR decomposition
+* Householder reflector
