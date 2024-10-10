@@ -238,5 +238,7 @@ Main reference
 * Example (where CGS failed to find orthonormal basis)
 
 `nla_02`
-* Triangularization of a matrix for QR decomposition
+* Triangularization of a matrix
 * Householder reflector
+* Computation of orthogonal matrix Q
+* Householder finds full QR
