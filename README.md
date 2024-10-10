@@ -1,6 +1,7 @@
 # (Numerical) linear algebra
 
 `la` linear algebra \
+`la_ex` examples of linear algebra \
 `nla` numerical linear algebra
 
 ### Linear algebra
