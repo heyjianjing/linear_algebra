@@ -245,3 +245,12 @@ Main reference
 * Householder reflector
 * Computation of orthogonal matrix Q
 * Householder finds full QR
+
+`nla_03`
+* Gaussian elimination for solving systems of linear equations
+* LU factorization with pivoting
+* Concept of permutation matrix
+
+`nla_04`
+* Cholesky factorization for positive definite matrices
+* Use Cholesky factorization to detect non-positive definite matrices
