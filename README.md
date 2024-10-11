@@ -232,6 +232,9 @@ Main reference
 
 ### A bit of numerical linear algebra
 
+Main reference
+* Numerical Linear Algebra (Trefethen and Bau)
+
 `nla_01`
 * Classic Gram-Schmidt (CGS) in rank-one projection form
 * Modified Gram-Schmidt (MGS) for numerical stability
