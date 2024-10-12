@@ -9,11 +9,11 @@ Main reference
 * Lectures from Prof. Stephen Boyd (Stanford)
 
 `la_01`
-* Intepretations of $Ax$, as transformation or translation
+* Intepretations of Ax, as transformation or translation
 * Change of basis based on two interpretations
 
 `la_02`
-* $y=Ax$ as only way of expressing linear function
+* y=Ax as only way of expressing linear function
 * Affine function
 
 `la_03`
@@ -60,9 +60,8 @@ Main reference
 
 `la_11`
 * Euclidean norm of a vector
-* $l_p$ norm of a vector
+* p-norm of a vector
 * Cauchy-Schwarz inequality
-* Inequality between $l_1$ and $l_2$ norm
 
 `la_12`
 * Orthonormal basis
@@ -117,7 +116,6 @@ Main reference
 
 `la_22`
 * Definition of matrix exponential
-* In general $e^{A+B}\neq e^A e^B$
 
 `la_23`
 * Left and right eigenvectors
@@ -147,7 +145,6 @@ Main reference
 * Symmetric matrix has real eigenvalues
 * Symmetirc matrix has orthogonal eigenvectors
 * Equivalency between transpose and inverse of eigenvector matrix when A is symmetric
-* Interpretation of $Ax$
 
 `la_27`
 * Similarity transformation
@@ -220,7 +217,7 @@ Main reference
 * Coordinates of image pixels
 * Length of intersection between ray and pixel
 * Regularized least squares for underdetermined system
-* $l_2$ regularization vs Laplacian regularization
+* Tikhonov regularization vs Laplacian regularization
 
 `la_ex_07`
 * Example: linear quadratic state estimation with constrained least squares
