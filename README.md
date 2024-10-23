@@ -253,5 +253,5 @@ Main reference
 * Use Cholesky factorization to detect non-positive definite matrices
 
 `nla_05`
-* Method of power iterations to compute dominant eigenvalue for diagonalizable matrix
-* Finding remaining eigenvalues for symmetric matrix
+* Method of power iterations to compute dominant eigenvalue for diagonalizable matrices
+* Finding remaining eigenvalues for symmetric matrices
