@@ -251,3 +251,7 @@ Main reference
 `nla_04`
 * Cholesky factorization for positive definite matrices
 * Use Cholesky factorization to detect non-positive definite matrices
+
+`nla_05`
+* Method of power iterations to compute dominant eigenvalue and corresponding eigenvector
+* Potential issues with finding remaining eigenvalues
