@@ -254,4 +254,5 @@ Main reference
 
 `nla_05`
 * Method of power iterations to compute dominant eigenvalue for diagonalizable matrices
-* Finding remaining eigenvalues for symmetric matrices
+* Compute eigenvalues for symmetric matrices
+* Compute singular values for general matrices
