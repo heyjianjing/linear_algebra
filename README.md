@@ -255,4 +255,4 @@ Main reference
 `nla_05`
 * Method of power iterations to compute dominant eigenvalue for diagonalizable matrices
 * Compute eigenvalues for symmetric matrices
-* Compute singular values for general matrices
+* Compute SVD for general matrices
