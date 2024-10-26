@@ -256,3 +256,8 @@ Main reference
 * Method of power iterations to compute dominant eigenvalue for diagonalizable matrices
 * Compute eigenvalues for symmetric matrices
 * Compute SVD for general matrices
+
+`nla_06`
+* Schur decomposition of square real matrices with real eigenvalues
+* Proof of Schur theorem by induction
+* Connection to diagonalization of symmetric matrices
