@@ -246,6 +246,7 @@ Main reference
 `nla_03`
 * Givens rotation for QR factorization
 * Construction of rotation matrix
+* Givens rotation finds full QR factorization
 
 `nla_04`
 * Gaussian elimination for solving systems of linear equations
