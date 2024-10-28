@@ -238,9 +238,8 @@ Main reference
 * QR factorization example (where CGS failed)
 
 `nla_02`
-* Triangularization of a matrix
-* Householder reflector
-* Computation of orthogonal matrix
+* Householder reflector for QR factorization
+* Construction of reflection matrix
 * Householder finds full QR factorization
 
 `nla_03`
@@ -265,6 +264,5 @@ Main reference
 `nla_07`
 * Schur decomposition of square real matrices with real eigenvalues
 * Proof of Schur theorem by induction
-* Connection to diagonalization of symmetric matrices
 * Extension of power iterations to orthogonal iterations
 * Orthogonal iterations with QR factorization to get Schur decomposition
