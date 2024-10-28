@@ -235,29 +235,33 @@ Main reference
 `nla_01`
 * Classic Gram-Schmidt (CGS) in rank-one projection form
 * Modified Gram-Schmidt (MGS) for numerical stability
-* Example (where CGS failed to find orthonormal basis)
+* QR factorization example (where CGS failed to find orthonormal basis)
 
 `nla_02`
 * Triangularization of a matrix
 * Householder reflector
-* Computation of orthogonal matrix Q
-* Householder finds full QR
+* Computation of orthogonal matrix
+* Householder finds full QR factorizaation
 
 `nla_03`
+* Givens rotation for QR factorization
+* Construction of rotation matrix
+
+`nla_04`
 * Gaussian elimination for solving systems of linear equations
 * LU factorization with pivoting
 * Concept of permutation matrix
 
-`nla_04`
+`nla_05`
 * Cholesky factorization for positive definite matrices
 * Use Cholesky factorization to detect non-positive definite matrices
 
-`nla_05`
+`nla_06`
 * Method of power iterations to compute dominant eigenvalue for diagonalizable matrices
 * Compute eigenvalues for symmetric matrices
 * Compute SVD for general matrices
 
-`nla_06`
+`nla_07`
 * Schur decomposition of square real matrices with real eigenvalues
 * Proof of Schur theorem by induction
 * Connection to diagonalization of symmetric matrices
