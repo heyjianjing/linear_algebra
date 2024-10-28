@@ -235,13 +235,13 @@ Main reference
 `nla_01`
 * Classic Gram-Schmidt (CGS) in rank-one projection form
 * Modified Gram-Schmidt (MGS) for numerical stability
-* QR factorization example (where CGS failed to find orthonormal basis)
+* QR factorization example (where CGS failed)
 
 `nla_02`
 * Triangularization of a matrix
 * Householder reflector
 * Computation of orthogonal matrix
-* Householder finds full QR factorizaation
+* Householder finds full QR factorization
 
 `nla_03`
 * Givens rotation for QR factorization
