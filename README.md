@@ -267,5 +267,5 @@ Main reference
 * Schur decomposition of square real matrices with real eigenvalues
 * Proof of Schur theorem by induction
 * Extension of power iterations to orthogonal iterations
-* Orthogonal iterations with QR factorization to get Schur decomposition
-* QR algorithm as variant to orthogonal iterations
+* Orthogonal iterations with QR factorization to get Schur form and find eigenvalues
+* QR algorithm as variant of orthogonal iterations to find eigenvalues
