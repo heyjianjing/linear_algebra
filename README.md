@@ -268,3 +268,4 @@ Main reference
 * Proof of Schur theorem by induction
 * Extension of power iterations to orthogonal iterations
 * Orthogonal iterations with QR factorization to get Schur decomposition
+* QR algorithm as variant to orthogonal iterations
