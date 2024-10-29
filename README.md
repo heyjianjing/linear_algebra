@@ -240,11 +240,13 @@ Main reference
 `nla_02`
 * Householder reflector for QR factorization
 * Construction of reflection matrix
+* Orthogonality of reflection matrix
 * Householder finds full QR factorization
 
 `nla_03`
 * Givens rotation for QR factorization
 * Construction of rotation matrix
+* Orthogonality of rotation matrix
 * Givens rotation finds full QR factorization
 
 `nla_04`
