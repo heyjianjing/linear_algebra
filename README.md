@@ -261,7 +261,7 @@ Main reference
 `nla_06`
 * Method of power iterations to compute dominant eigenvalue for diagonalizable matrices
 * Convergence to eigenvector
-* Rayleigh quotient and convergence to dominant eigenvalue
+* Rayleigh quotient and convergence to eigenvalue
 * Compute eigenvalues for symmetric matrices
 * Compute SVD for general matrices
 
