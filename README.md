@@ -264,10 +264,3 @@ Main reference
 * Rayleigh quotient and convergence to eigenvalue
 * Compute eigenvalues for symmetric matrices
 * Compute SVD for general matrices
-
-`nla_07`
-* Schur decomposition of square real matrices with real eigenvalues
-* Proof of Schur theorem by induction
-* Extension of power iterations to orthogonal iterations
-* Orthogonal iterations with QR factorization to get Schur form and find eigenvalues
-* QR algorithm as rearrangement of orthogonal iterations
