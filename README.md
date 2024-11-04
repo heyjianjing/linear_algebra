@@ -267,5 +267,5 @@ Main reference
 
 `nla_07`
 * Power iterations for nonsymmetric matrices
-* Iterative update of matrix with both left and right eigenvectors
-* Ensure biorthogonality between left and right eigenvectors
+* Update of matrix with both left and right eigenvectors
+* Update of biorthogonality between left and right eigenvectors
