@@ -232,8 +232,6 @@ Main reference
 Main reference
 * Numerical Linear Algebra (Trefethen and Bau)
 
-`nla_01`-`nla_05`: Factorization
-
 `nla_01`
 * Classic Gram-Schmidt (CGS) in rank-one projection form
 * Modified Gram-Schmidt (MGS) for numerical stability
@@ -259,8 +257,6 @@ Main reference
 `nla_05`
 * Cholesky factorization for positive definite matrices
 * Use Cholesky factorization to detect non-positive definite matrices
-
-`nla_06`-`nla_07`: Eigenvalue problem for symmetric matrices
 
 `nla_06`
 * Method of power iterations to compute dominant eigenvalue for diagonalizable matrices
