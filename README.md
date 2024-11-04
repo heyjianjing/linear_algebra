@@ -264,3 +264,8 @@ Main reference
 * Rayleigh quotient and convergence to eigenvalue
 * Compute eigenvalues for symmetric matrices
 * Compute SVD for general matrices
+
+`nla_07`
+* Power iterations for nonsymmetric matrices
+* Iterative update of matrix with both left and right eigenvectors
+* Ensure biorthogonality between left and right eigenvectors
