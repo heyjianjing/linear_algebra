@@ -269,3 +269,4 @@ Main reference
 * Power iterations for nonsymmetric matrices
 * Update of matrix with both left and right eigenvectors
 * Update of biorthogonality between left and right eigenvectors
+* Create diagonalizable matrices with real eigenvalues using similarity transformation
