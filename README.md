@@ -273,5 +273,6 @@ Main reference
 
 `nla_08`
 * Schur decomposition
+* Orthogonal iterations combine power iterations with QR factorization
 * Orthogonal iterations find eigenvalues for general matrices
 * Orthogonal iterations find eigenvectors for symmetric matrices under certain conditions
