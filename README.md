@@ -81,7 +81,7 @@ Main reference
 * Sequentially determine whether each vector in the set can be expressed as a linear combination of vectors that precede it
 
 `la_15`
-* QR and full QR decomposition
+* QR and full QR factorization (see `nla_01`-`nla_03` for more robust QR factorization methods)
 * Relationship among four subspaces of a matrix through QR
 * Bessel's inequality
 
