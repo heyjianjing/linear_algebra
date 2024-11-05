@@ -270,3 +270,7 @@ Main reference
 * Update of matrix with both left and right eigenvectors
 * Update of biorthogonality between left and right eigenvectors
 * Create diagonalizable matrices with real eigenvalues using similarity transformation
+
+`nla_08`
+* Schur decomposition of matrices
+* Orthogonal iterations for simultaneous computation of all eigenvalues
