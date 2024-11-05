@@ -270,3 +270,8 @@ Main reference
 * Update of matrix with both left and right eigenvectors
 * Update of biorthogonality between left and right eigenvectors
 * Create nonsymmetric diagonalizable matrix through similarity transformation 
+
+`nla_08`
+* Schur decomposition
+* Orthogonal iterations find eigenvalues for general matrices
+* Orthogonal iterations find eigenvectors for symmetric matrices under certain conditions
