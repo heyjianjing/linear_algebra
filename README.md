@@ -81,7 +81,8 @@ Main reference
 * Sequentially determine whether each vector in the set can be expressed as a linear combination of vectors that precede it
 
 `la_15`
-* QR and full QR factorization (see `nla_01`-`nla_03` for more robust QR factorization methods)
+* QR and full QR factorization
+* See `nla_01`-`nla_03` for more robust QR factorization methods
 * Relationship among four subspaces of a matrix through QR
 * Bessel's inequality
 
@@ -133,6 +134,7 @@ Main reference
 * Diagonalization simplifies many matrix expressions, resolvent, powers, exponential,...
 * Diagonalization and left eigenvectors
 * Left and right eigenvectors as dual basis
+* See `nla_06`-`nla_09` for numerical methods for computing eigenvalues and eigenvectors
 
 `la_25`
 * Jordan canonical form generalizes diagonalization of square matrix
