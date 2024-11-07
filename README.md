@@ -244,6 +244,7 @@ Main reference
 * Construction of reflection matrix
 * Orthogonality of reflection matrix
 * Householder finds full QR factorization
+* Householder is backward stable
 
 `nla_03`
 * Givens rotation for QR factorization
