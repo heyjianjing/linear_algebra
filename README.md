@@ -278,7 +278,8 @@ Main reference
 * Schur decomposition
 * Obtain Schur form of general matrices using orthogonal iterations
 * Upper triangular matrix in Schur form contains eigenvalues in its diagonal
-* Computation of eigenvectors based on Schur form
+* Computation of eigenvectors based on Schur form using back substitution
+* Back substitution is backward stable
 
 `nla_09`
 * QR algorithm as refomulation of orthogonal iterations for general matrices
