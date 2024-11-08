@@ -283,3 +283,9 @@ Main reference
 
 `nla_09`
 * QR algorithm as refomulation of orthogonal iterations for general matrices
+
+`nla_10`
+* Conditioning of least squares problem
+* Conditioning parameters
+* Analytical equation is unstable
+* Comparison of methods based on QR factorization and back substitution (Householder, Givens, MGS)
