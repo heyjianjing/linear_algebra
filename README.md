@@ -289,3 +289,4 @@ Main reference
 * Conditioning parameters
 * Analytical equation is unstable
 * Comparison of methods based on QR factorization and back substitution (Householder, Givens, MGS)
+* Solve least squares with Cholesky factorization and forward and back substitution
