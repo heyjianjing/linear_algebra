@@ -1,4 +1,4 @@
-# (Numerical) linear algebra
+# Linear algebra
 
 `la` linear algebra \
 `nla` numerical linear algebra
@@ -229,7 +229,7 @@ Main reference
 `la_ex_08`
 * Example: polynomial data fitting with constrained least squares
 
-### A bit of numerical linear algebra
+### (A bit of) numerical linear algebra
 
 Main reference
 * Numerical Linear Algebra (Trefethen and Bau)
