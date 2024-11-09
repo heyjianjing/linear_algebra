@@ -300,4 +300,4 @@ Main reference
 
 `nla_12`
 * Two properties of determinant
-* Compute determinant based on triangular factorization (Cholesky and LU with partial pivoting)
+* Compute determinant based on factorization (Cholesky and LU with partial pivoting)
