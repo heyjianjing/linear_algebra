@@ -305,5 +305,5 @@ Main reference
 `nla_13`
 * Fixed point methods provide iterative solution to linear system of equations
 * Jacobi method
-* Gauss-Seidel method
+* Gauss-Seidel method and successive over relaxation (SOR)
 * Convergence requirement
