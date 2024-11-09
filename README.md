@@ -291,3 +291,7 @@ Main reference
 * Analytical equation is unstable
 * Comparison of methods based on QR factorization and back substitution (Householder, Givens, MGS)
 * Solve least squares with Cholesky factorization and forward and back substitution
+
+`nla_11`
+* Solve linear system of equations with Cholesky factorization
+* Solve linear system of equations using LU factorization with partial pivoting
