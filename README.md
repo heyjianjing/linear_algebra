@@ -256,6 +256,7 @@ Main reference
 * Gaussian elimination for solving systems of linear equations
 * LU factorization with pivoting
 * Concept of permutation matrix
+* Gaussian elimination with partial pivoting is backward stable
 
 `nla_05`
 * Cholesky factorization for positive definite matrices
