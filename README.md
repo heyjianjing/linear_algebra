@@ -234,7 +234,7 @@ Main reference
 ### (A bit of) numerical linear algebra
 
 Main reference
-* Numerical Linear Algebra (Trefethen and Bau)
+* Numerical Linear Algebra (Lloyd Trefethen and David Bau)
 
 `nla_01`
 * Classic Gram-Schmidt (CGS) in rank-one projection form
