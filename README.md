@@ -301,3 +301,9 @@ Main reference
 `nla_12`
 * Two properties of determinant
 * Compute determinant based on factorization (Cholesky and LU with partial pivoting)
+
+`nla_13`
+* Fixed point methods provide iterative solution to linear system of equations
+* Jacobi method
+* Gauss-Seidel method
+* Convergence requirement
