@@ -94,6 +94,7 @@ Main reference
 * Geometric interpretation and projection matrix
 * Least squares through QR decomposition
 * Properties of projection matrix
+* See `nla_10` for numerical methods to solve least squares
 
 `la_18`
 * Multi-objective least squares and regularization
