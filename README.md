@@ -307,3 +307,8 @@ Main reference
 * Jacobi method
 * Gauss-Seidel method and successive over relaxation (SOR)
 * Convergence requirement
+
+`nla_14`
+* Characteristic polynomial and minimal polynomial
+* Intuition via generalized eigenvectors
+* Krylov subspace
