@@ -312,3 +312,7 @@ Main reference
 * Characteristic polynomial and minimal polynomial
 * Intuition via generalized eigenvectors
 * Krylov subspace
+
+`nla_15`
+* Hessenberg form
+* Arnoldi iteration for Hessenberg decomposition
