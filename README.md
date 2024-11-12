@@ -322,5 +322,5 @@ Main reference
 
 `nla_16`
 * Lanczos iteration as special case of Arnoldi iteration for symmetric matrices
-* Hessenberg matrix in symmetric case is tridiagonal
+* Hessenberg form in symmetric case is tridiagonal
 * Reorthogonalization for Lanczos iteration
