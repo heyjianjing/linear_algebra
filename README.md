@@ -319,3 +319,8 @@ Main reference
 * Arnoldi iteration constructs orthonormal basis for successive Krylov subspaces
 * Reduced Hessenberg matrix
 * Eigenvalue approximation
+
+`nla_16`
+* Lanczos iteration as special case of Arnoldi iteration for symmetric matrices
+* Hessenberg matrix in symmetric case is tridiagonal
+* Reorthogonalization for Lanczos iteration
