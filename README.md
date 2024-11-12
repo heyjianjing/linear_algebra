@@ -317,3 +317,5 @@ Main reference
 * Hessenberg form
 * Arnoldi iteration for Hessenberg decomposition
 * Arnoldi iteration constructs orthonormal basis for successive Krylov subspaces
+* Reduced Hessenberg matrix
+* Eigenvalue approximation
