@@ -17,7 +17,7 @@ Main reference
 * Affine function
 
 `la_03`
-* Dot product
+* Dot (inner) product
 * Equivalence with projection
 * Dot product under transpose
 
