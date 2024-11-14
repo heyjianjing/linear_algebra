@@ -144,6 +144,7 @@ Main reference
 * Generalized eigenvectors
 * Cayley-Hamilton theorem
 * Corollary and intuition
+* See `nla_14` for connection of these to Krylov subspace
 
 `la_26`
 * Symmetric matrix has real eigenvalues
