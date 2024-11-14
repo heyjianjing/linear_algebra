@@ -136,7 +136,7 @@ Main reference
 * Diagonalization simplifies many matrix expressions, resolvent, powers, exponential,...
 * Diagonalization and left eigenvectors
 * Left and right eigenvectors as dual basis
-* See `nla_06`-`nla_09` for numerical methods to compute eigenvalues and eigenvectors
+* See `nla_06`-`nla_09` and `nla_15`-`nla_16` for numerical methods to compute eigenvalues and eigenvectors
 
 `la_25`
 * Jordan canonical form generalizes diagonalization of square matrix
