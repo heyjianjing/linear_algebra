@@ -264,6 +264,7 @@ Main reference
 `nla_05`
 * Cholesky factorization for positive definite matrices
 * Use Cholesky factorization to detect non-positive definite matrices
+* LDLT factorization for nonsingular symmetric matrices
 
 `nla_06`
 * Method of power iterations to compute dominant eigenvalue for diagonalizable matrices
