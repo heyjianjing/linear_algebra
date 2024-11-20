@@ -88,7 +88,7 @@ Main reference
 * Bessel's inequality
 
 `la_16`
-* Useful derivatives from matrix calculus
+* Useful derivatives from matrix calculus (under column vector convention)
 
 `la_17`
 * Least squares and left inverse
