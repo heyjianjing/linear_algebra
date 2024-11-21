@@ -301,8 +301,7 @@ Main reference
 * Solve linear system of equations using LU factorization with partial pivoting
 
 `nla_12`
-* Two properties of determinant
-* Compute determinant based on factorization (Cholesky and LU with partial pivoting)
+* Compute determinant using factorization (Cholesky and LU with partial pivoting)
 
 `nla_13`
 * Fixed point methods provide iterative solution to linear system of equations
@@ -316,7 +315,7 @@ Main reference
 * Krylov subspace
 
 `nla_15`
-* Hessenberg form
+* Hessenberg form of matrices
 * Arnoldi iteration for Hessenberg decomposition
 * Arnoldi iteration constructs orthonormal basis for successive Krylov subspaces
 * Reduced Hessenberg matrix
