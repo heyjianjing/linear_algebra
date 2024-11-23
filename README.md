@@ -295,7 +295,6 @@ Main reference
 * Analytical equation is unstable
 * Comparison of methods based on QR factorization and back substitution (Householder, Givens, MGS)
 * Solving least squares with Cholesky/LDLT/LU can perform very poorly with ill-conditioned matrices
-* Just use Householder for dense matrices, and potentially Givens for sparse matrices
 
 `nla_11`
 * Solve linear system of equations with Cholesky factorization
