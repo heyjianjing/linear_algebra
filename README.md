@@ -9,7 +9,7 @@ Main reference
 * Lectures from Prof. Stephen Boyd (Stanford)
 
 `la_01`
-* Intepretations of matrix-vector multiplication as transformation and translation
+* Matrix-vector multiplication interpreted as transformation and translation
 * Change of basis based on two interpretations
 
 `la_02`
