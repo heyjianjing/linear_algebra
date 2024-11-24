@@ -232,7 +232,7 @@ Main reference
 `la_ex_08`
 * Example: polynomial data fitting with constrained least squares
 
-### (A bit of) numerical linear algebra
+### Numerical linear algebra
 
 Main reference
 * Numerical Linear Algebra (Lloyd Trefethen and David Bau)
