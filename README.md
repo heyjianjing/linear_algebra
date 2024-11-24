@@ -17,9 +17,8 @@ Main reference
 * Affine function
 
 `la_03`
-* Dot (inner) product
-* Equivalence with projection
-* Dot product under transpose
+* Algebraic definition of dot (inner) product
+* Dot product as projection
 
 `la_04`
 * Geometric intuition of determinant
