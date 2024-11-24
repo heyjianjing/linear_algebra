@@ -9,11 +9,11 @@ Main reference
 * Lectures from Prof. Stephen Boyd (Stanford)
 
 `la_01`
-* Intepretations of Ax, as transformation or translation
+* Intepretations of matrix-vector multiplication as transformation and translation
 * Change of basis based on two interpretations
 
 `la_02`
-* y=Ax as only way of expressing linear function
+* Matrix-vector multiplication as the only way of expressing linear function
 * Affine function
 
 `la_03`
