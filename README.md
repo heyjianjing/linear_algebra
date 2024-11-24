@@ -23,7 +23,6 @@ Main reference
 `la_04`
 * Geometric intuition of determinant
 * Determinant and cross product
-* See `nla_12` for idea to compute determinant numerically
 
 `la_05`
 * Interpretations of matrix-vector multiplication
