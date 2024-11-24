@@ -31,7 +31,7 @@ Main reference
 `la_06`
 * Vector space and subspace
 * Independent set of vectors
-* Basis
+* Basis of a vector space
 
 `la_07`
 * Nullspace definition
