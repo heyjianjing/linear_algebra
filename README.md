@@ -226,14 +226,12 @@ Main reference
 `nla_01`
 * Classic Gram-Schmidt (CGS) in rank-one projection form
 * Modified Gram-Schmidt (MGS) for numerical stability
-* QR factorization example (where CGS failed)
 
 `nla_02`
 * Householder reflector for QR factorization
 * Construction of reflection matrix
 * Orthogonality of reflection matrix
 * Householder finds full QR factorization
-* Householder is backward stable
 
 `nla_03`
 * Givens rotation for QR factorization
@@ -242,10 +240,9 @@ Main reference
 * Givens rotation finds full QR factorization
 
 `nla_04`
-* Gaussian elimination for solving systems of linear equations
-* LU factorization with pivoting
-* Concept of permutation matrix
-* Gaussian elimination with partial pivoting is backward stable
+* Gaussian elimination for solving linear system of equations
+* LU factorization with partial pivoting
+* Concept of permutation matrices
 
 `nla_05`
 * Cholesky factorization for positive definite matrices
@@ -253,61 +250,82 @@ Main reference
 * LDLT factorization for nonsingular symmetric matrices
 
 `nla_06`
-* Method of power iterations to compute dominant eigenvalue for diagonalizable matrices
-* Convergence to eigenvector
-* Rayleigh quotient and convergence to eigenvalue
-* Compute eigenvalues for symmetric matrices
-* Compute SVD for general matrices
+* Compute determinant using factorization (Cholesky and LU with partial pivoting)
 
 `nla_07`
+* Forward substitution
+* Back substitution
+
+`nla_08`
+* Condition of a problem
+* Absolute and relative condition number
+* Condition of matrix-vector multiplication
+* Forward and backward error
+* Condition number of a matrix
+* Condition of a system of equations
+
+`nla_09`
+* Double precision system
+* Machine precision
+* Precision in relative terms
+* Cancellation error
+
+`nla_12`
+* Solve linear system of equations with symmetric matrices using Cholesky or LDLT
+* Solve generic linear system of equations using LU factorization with partial pivoting
+* Block elimination for equations with structured sub-blocks
+
+`nla_13`
+* Power iterations to compute dominant eigenvalue for diagonalizable matrices
+* Convergence to eigenvector
+* Rayleigh quotient and convergence to eigenvalue
+* Compute all eigenvalues for symmetric matrices
+* Compute SVD for general matrices
+
+`nla_14`
 * Power iterations for nonsymmetric matrices
 * Update of matrix with both left and right eigenvectors
 * Update of biorthogonality between left and right eigenvectors
-* Create nonsymmetric diagonalizable matrix through similarity transformation 
+* Compute all eigenvalues for nonsymmetric matrices
 
-`nla_08`
+`nla_15`
 * Schur decomposition
 * Obtain Schur form of general matrices using orthogonal iterations
 * Upper triangular matrix in Schur form contains eigenvalues in its diagonal
-* Computation of eigenvectors based on Schur form using back substitution
-* Back substitution is backward stable
+* Computation of eigenvectors based on Schur form
 
-`nla_09`
+`nla_16`
 * QR algorithm as refomulation of orthogonal iterations for general matrices
 
-`nla_10`
-* Conditioning of least squares problem
-* Conditioning parameters
-* Analytical equation is unstable
-* Comparison of methods based on QR factorization and back substitution (Householder, Givens, MGS)
-* Solving least squares with Cholesky/LDLT/LU can perform very poorly with ill-conditioned matrices
-
-`nla_11`
-* Solve linear system of equations with Cholesky factorization
-* Solve linear system of equations using LU factorization with partial pivoting
-
-`nla_12`
-* Compute determinant using factorization (Cholesky and LU with partial pivoting)
-
-`nla_13`
-* Fixed point methods provide iterative solution to linear system of equations
+`nla_17`
+* Fixed point method for iterative solution to linear system of equations
 * Jacobi method
 * Gauss-Seidel method and successive over relaxation (SOR)
 * Convergence requirement
 
-`nla_14`
+`nla_18`
 * Characteristic polynomial and minimal polynomial
 * Intuition via generalized eigenvectors
 * Krylov subspace
 
-`nla_15`
+`nla_19`
 * Hessenberg form of matrices
 * Arnoldi iteration for Hessenberg decomposition
 * Arnoldi iteration constructs orthonormal basis for successive Krylov subspaces
-* Reduced Hessenberg matrix
+* Reduced Hessenberg form
 * Eigenvalue approximation
 
-`nla_16`
+`nla_20`
 * Lanczos iteration as special case of Arnoldi iteration for symmetric matrices
 * Hessenberg form in symmetric case is tridiagonal
 * Reorthogonalization for Lanczos iteration
+
+`nla_21`
+* Generalized minimal residuals (GMRES) for iterative solution to linear system of equations
+* Relation to Arnoldi iteration
+* Convergence of GMRES
+
+`nla_22`
+* Gradient method for iterative solution to linear system of equations
+* Gradient descent and line search for optimal step size
+* Conjugate gradient method for positive definite matrices
