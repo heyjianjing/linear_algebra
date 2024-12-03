@@ -34,28 +34,24 @@ Main reference
 * Basis of a vector space
 
 `la_07`
-* Nullspace definition
-* Zero nullspace and equivalent statement: left inverse, indepedent columns, determinant,...
-* Tall matrix
+* Nullspace of a matrix
+* Zero nullspace and equivalent statement: left inverse, independent columns, determinant,...
 
 `la_08`
-* Column space definition
+* Column space of a matrix
 * Onto matrix and equivalent statement: right inverse, independent rows, determinant,...
-* Fat matrix
 * Left inverse and right inverse
-* Compute the `right` right inverse
 
 `la_09`
-* Inverse of square matrix
-* Left invertible $\Longleftrightarrow$ right invertible
+* Inverse of square matrices
+* Left and right invertibility
 * Left and right inverse are unique and equal
 * Dual basis
 
 `la_10`
-* Rank of matrix
+* Rank of a matrix
 * Column rank equals row rank
-* Full rank matrix
-* Change of basis
+* Full rank matrices
 
 `la_11`
 * Euclidean norm of a vector
@@ -71,29 +67,26 @@ Main reference
 * Two interpretations of projection
 
 `la_13`
-* Find orthonormal basis for independent set of vectors
+* Find orthonormal basis for an independent set of vectors
 * Basic Gram-Schmidt procedure based on sequential orthogonalization
 
 `la_14`
-* Find orthonormal basis for set of vectors (independent or not)
-* General Gram-Schmidt procedure
-* Sequentially determine whether each vector in the set can be expressed as a linear combination of vectors that precede it
+* Find orthonormal basis for a set of vectors (independent or not)
+* General Gram-Schmidt procedure and QR factorization
 
 `la_15`
-* QR and full QR factorization
-* See `nla_01`-`nla_03` for more robust QR factorization methods
-* Relationship among four subspaces of a matrix through QR
+* Full QR factorization
+* Relationship among four subspaces of matrices through QR
 * Bessel's inequality
 
 `la_16`
-* Useful derivatives from matrix calculus (under column vector convention)
+* Useful derivatives in matrix calculus (column vector convention)
 
 `la_17`
 * Least squares and left inverse
 * Geometric interpretation and projection matrix
-* Least squares through QR decomposition
-* Properties of projection matrix
-* See `nla_10` for numerical methods to solve least squares
+* Least squares through QR factorization
+* Properties of projection matrices
 
 `la_18`
 * Multi-objective least squares and regularization
@@ -107,8 +100,7 @@ Main reference
 * Intuition behind method of Lagrange multipliers
 
 `la_20`
-* Least squares with equality constraint
-* Optimality conditions using method of Lagrange multipliers
+* Optimality conditions for equality-constrained least squares
 * KKT equations and invertibility of KKT matrix
 
 `la_21`
@@ -120,38 +112,34 @@ Main reference
 
 `la_23`
 * Left and right eigenvectors
-* Real matrix has conjugate symmetry for eigenvalues and eigenvectors
+* Real matrices have conjugate symmetry for eigenvalues and eigenvectors
 * Characteristic polynomial
 * Basic properties of eigenvalues
-* Eigenvalues and characteristic polynomial is the same under similarity transformation
+* Markov chain example
 
 `la_24`
-* Matrix diagonalization as an application of eigenvectors and eigenvalues
-* Matrix is diagonalizable if and only if it has independent set of eigenvectors
+* Matrices with independent set of eigenvectors are diagonalizable
 * Not all square matrices are diagonalizable
-* If matrix has distinct eigenvalues, then it is diagonalizable
+* Matrices with distinct eigenvalues are diagonalizable
 * The other way is not true
-* Diagonalization simplifies many matrix expressions, resolvent, powers, exponential,...
+* Diagonalization simplifies calculation: resolvent, powers, exponential,...
 * Diagonalization and left eigenvectors
 * Left and right eigenvectors as dual basis
-* See `nla_06`-`nla_09` and `nla_15`-`nla_16` for numerical methods to compute eigenvalues and eigenvectors
 
 `la_25`
-* Jordan canonical form generalizes diagonalization of square matrix
+* Jordan canonical form generalizes diagonalization of square matrices
 * Determinant of a matrix is product of all its eigenvalues
 * Generalized eigenvectors
 * Cayley-Hamilton theorem
 * Corollary and intuition
-* See `nla_14` for connection of these to Krylov subspace
 
 `la_26`
-* Symmetric matrix has real eigenvalues
-* Symmetirc matrix has orthogonal eigenvectors
-* Equivalency between transpose and inverse of eigenvector matrix when A is symmetric
+* Symmetric matrices have real eigenvalues
+* Symmetirc matrices have orthogonal eigenvectors
 
 `la_27`
 * Similarity transformation
-* Things that are preserved under similarity transformation (characteristic polynomial, eigenvalues, determinant, matrix rank...)
+* Things preserved under similarity transformation (characteristic polynomial, eigenvalues, determinant, matrix rank...)
 
 `la_28`
 * Quadratic form
@@ -173,7 +161,7 @@ Main reference
 * Comparison to eigendecomposition
 
 `la_31`
-* Left and right inverse computed via SVD
+* Left and right inverses computed via SVD
 
 `la_32`
 * Full SVD
@@ -200,7 +188,7 @@ Main reference
 
 `la_ex_02`
 * Example: position estimation from ranges
-* Issue with Gauss-Newton algorithm
+* Issues with Gauss-Newton algorithm
 * Levenberg-Marquardt algorithm for NLLS
 
 `la_ex_03`
