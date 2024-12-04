@@ -272,7 +272,7 @@ Main reference
 
 `nla_11`
 * Conditioning parameters and condition numbers for least squares
-* Numerical stability of QR algorithms in solving ill-conditioned least squares
+* Numerical stability of different QR factorization in solving ill-conditioned least squares
 
 `nla_12`
 * Solve linear system of equations with symmetric matrices using Cholesky or LDLT
