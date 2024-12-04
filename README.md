@@ -270,35 +270,35 @@ Main reference
 * Precision in relative terms
 * Cancellation error
 
-`nla_11`
+`nla_10`
 * Conditioning parameters and condition numbers for least squares
 * Numerical stability of different QR factorization in solving ill-conditioned least squares
 
-`nla_12`
+`nla_11`
 * Solve linear system of equations with symmetric matrices using Cholesky or LDLT
 * Solve generic linear system of equations using LU factorization with partial pivoting
 * Block elimination for equations with structured sub-blocks
 
-`nla_13`
+`nla_12`
 * Power iterations to compute dominant eigenvalue for diagonalizable matrices
 * Convergence to eigenvector
 * Rayleigh quotient and convergence to eigenvalue
 * Compute all eigenvalues for symmetric matrices
 * Compute SVD for general matrices
 
-`nla_14`
+`nla_13`
 * Power iterations for nonsymmetric matrices
 * Update of matrix with both left and right eigenvectors
 * Update of biorthogonality between left and right eigenvectors
 * Compute all eigenvalues for nonsymmetric matrices
 
-`nla_15`
+`nla_14`
 * Schur decomposition
 * Obtain Schur form of general matrices using orthogonal iterations
 * Upper triangular matrix in Schur form contains eigenvalues in its diagonal
 * Computation of eigenvectors based on Schur form
 
-`nla_16`
+`nla_15`
 * QR algorithm as refomulation of orthogonal iterations for general matrices
 
 `nla_17`
