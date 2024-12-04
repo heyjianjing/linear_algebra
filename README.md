@@ -301,6 +301,11 @@ Main reference
 `nla_15`
 * QR algorithm as refomulation of orthogonal iterations for general matrices
 
+`nla_16`
+* Two-phase approach to compute SVD of a matrix
+* Phase one: turn matrix into bidiagonal form
+* Phase two: compute SVD of bidiagonal matrix
+
 `nla_17`
 * Fixed point method for iterative solution to linear system of equations
 * Jacobi method
