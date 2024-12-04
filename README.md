@@ -284,7 +284,6 @@ Main reference
 * Convergence to eigenvector
 * Rayleigh quotient and convergence to eigenvalue
 * Compute all eigenvalues for symmetric matrices
-* Compute SVD for general matrices
 
 `nla_13`
 * Power iterations for nonsymmetric matrices
