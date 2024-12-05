@@ -124,9 +124,9 @@ Main reference
 * Matrices with distinct eigenvalues are diagonalizable
 * The other way is not true
 * Diagonalization simplifies expressions: resolvent, powers, exponential,...
+* Diagonalization simplifies linear relation
 * Diagonalization and left eigenvectors
 * Left and right eigenvectors as dual basis
-* Diagonalization simplifies linear relation
 
 `la_25`
 * Jordan canonical form generalizes diagonalization of square matrices
