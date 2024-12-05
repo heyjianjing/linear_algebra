@@ -123,9 +123,10 @@ Main reference
 * Not all square matrices are diagonalizable
 * Matrices with distinct eigenvalues are diagonalizable
 * The other way is not true
-* Diagonalization simplifies calculation: resolvent, powers, exponential,...
+* Diagonalization simplifies expressions: resolvent, powers, exponential,...
 * Diagonalization and left eigenvectors
 * Left and right eigenvectors as dual basis
+* Diagonalization simplifies linear relation
 
 `la_25`
 * Jordan canonical form generalizes diagonalization of square matrices
