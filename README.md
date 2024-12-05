@@ -19,6 +19,7 @@ Main reference
 `la_03`
 * Algebraic definition of dot (inner) product
 * Dot product as projection
+* First look of projection matrix
 
 `la_04`
 * Geometric intuition of determinant
