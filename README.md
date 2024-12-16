@@ -81,7 +81,10 @@ Main reference
 * Bessel's inequality
 
 `la_16`
-* Useful derivatives in matrix calculus (column vector convention)
+* Derivative, Jacobian, and gradient
+* Chain rule for 1st derivative
+* Hessian
+* Chain rule for 2nd derivative
 
 `la_17`
 * Least squares and left inverse
