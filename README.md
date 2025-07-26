@@ -218,8 +218,6 @@ Main reference
 
 `la_ex_07`
 * Example: linear quadratic state estimation with constrained least squares
-* Product of two Gaussians
-* Kalman filter and sequential state estimation
 
 `la_ex_08`
 * Example: polynomial data fitting with constrained least squares
