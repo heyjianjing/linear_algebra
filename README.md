@@ -166,11 +166,11 @@ Main reference
 * Comparison to eigendecomposition
 
 `la_31`
-* Left and right inverses computed via SVD
-
-`la_32`
 * Full SVD
 * Full SVD simplifies linear relation
+
+`la_32`
+* Left and right inverses computed via SVD
 
 `la_33`
 * Error estimation in linear model via SVD
